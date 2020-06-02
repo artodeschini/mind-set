@@ -19,6 +19,7 @@
 [REST-RESTFul API's do 0 à Nuvem Com Spring Boot 2.x e Docker](https://www.udemy.com/certificate/UC-N0M5X87E/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 13.5   
 [HANDS ON DOCKER for JAVA Developers](https://www.udemy.com/certificate/UC-G3NLCGL5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h   
 [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/certificate/UC-YA8AOA5T/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 3h  
+[Quarkus com Panache, GraalVM, GitlabCI e AWS](https://www.udemy.com/certificate/UC-77b21d13-aeae-409d-a90c-209ff0db10ac/)  1.5h  
 
 # Linux
 [RHEL 8 / CentOs 8 Administration with Cockpit Web Console](https://www.udemy.com/certificate/UC-c450430b-b5b6-404a-a681-310921719603/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email) 1.5h   
