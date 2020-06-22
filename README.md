@@ -18,6 +18,8 @@
 [Docker para Amazon AWS Implante Apps Java e .NET + Travis CI](https://www.udemy.com/certificate/UC-DRUAOFNB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h   
 [Getting Started With Docker: Key Concepts for Beginners](https://www.udemy.com/certificate/UC-BNRLIJFB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 2h  
 
+[SSL Complete Guide 2020: HTTP to HTTPS](https://www.udemy.com/certificate/UC-bf5cb983-0ccb-422b-9a47-b17bcdde121a) 11h   
+
 # English
 [Elementary English Level I: Complete Course](https://www.udemy.com/certificate/UC-1c3a338d-f23f-4bb0-b234-3008e4229ef9/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com) 4.5h     
 
