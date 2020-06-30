@@ -39,7 +39,10 @@
 [Setup OS X development environments](https://www.udemy.com/certificate/UC-UBFQK7K3/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1h  
 
 # Mathematics
-[Discrete Mathematics - Complete Course](https://www.udemy.com/certificate/UC-TPB699U5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1.5h   
+[Discrete Mathematics - Complete Course](https://www.udemy.com/certificate/UC-TPB699U5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1.5h  
+
+# Node.js
+[](https://www.udemy.com/certificate/UC-ceac2d37-f351-4d75-8463-a6159fdb58d4/) 39'    
 
 # NoSQL   
 [Introduction to the MongoDB](https://www.udemy.com/certificate/UC-GTITIVRZ/) 1.5   
