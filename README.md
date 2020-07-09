@@ -23,6 +23,9 @@
 # English
 [Elementary English Level I: Complete Course](https://www.udemy.com/certificate/UC-1c3a338d-f23f-4bb0-b234-3008e4229ef9/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com) 4.5h     
 
+# Financial
+[Curso Inteligência Financeira](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Financeira/1594293549453-5366a42f-fcbc-4693-8c92-d40325d51ba4.pdf) 6h   
+
 # Front End
 [HTML5](https://www.udemy.com/certificate/UC-33HY8RLS/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h  
 
@@ -42,7 +45,7 @@
 [Discrete Mathematics - Complete Course](https://www.udemy.com/certificate/UC-TPB699U5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1.5h  
 
 # Node.js
-[](https://www.udemy.com/certificate/UC-ceac2d37-f351-4d75-8463-a6159fdb58d4/) 39'    
+[Node.js Crash Course](https://www.udemy.com/certificate/UC-ceac2d37-f351-4d75-8463-a6159fdb58d4/) 39'    
 
 # NoSQL   
 [Introduction to the MongoDB](https://www.udemy.com/certificate/UC-GTITIVRZ/) 1.5   
@@ -60,7 +63,8 @@
 
 # Security
 [Ethical Hacker Certification course](https://www.udemy.com/certificate/UC-5TAXNVAD/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 7.5  
-[Deep Web- The complete Introduction to the hidden web](https://www.udemy.com/certificate/UC-9923a37b-e05f-422b-bf2c-df6bd10fe800/) 2.5h   
+[Deep Web- The complete Introduction to the hidden web](https://www.udemy.com/certificate/UC-9923a37b-e05f-422b-bf2c-df6bd10fe800/) 2.5h  
+[V Seminário Internacional: Ciência, Tecnologia e Inovação em Segurança Pública](http://swift.setic.ufsc.br/v1/AUTH_autenticidadeprod/auth-1535563326/f5a8bad339a94e6c0107625a61e3c0f232882e25.pdf) 20h    
 
 # Server
 [Learn Nginx By Example](https://www.udemy.com/certificate/UC-266DLLC5/) 2.5h  
