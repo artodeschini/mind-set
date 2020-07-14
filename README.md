@@ -21,7 +21,8 @@
 [SSL Complete Guide 2020: HTTP to HTTPS](https://www.udemy.com/certificate/UC-bf5cb983-0ccb-422b-9a47-b17bcdde121a) 11h   
 
 # English
-[Elementary English Level I: Complete Course](https://www.udemy.com/certificate/UC-1c3a338d-f23f-4bb0-b234-3008e4229ef9/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com) 4.5h     
+[Elementary English Level I: Complete Course](https://www.udemy.com/certificate/UC-1c3a338d-f23f-4bb0-b234-3008e4229ef9/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com) 4.5h  
+[Elementary English Level II: Short Course](https://www.udemy.com/certificate/UC-506dd38e-9d79-4a0c-85de-6cf2ca974149/) 2.5h      
 
 # Financial
 [Curso Inteligência Financeira](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Financeira/1594293549453-5366a42f-fcbc-4693-8c92-d40325d51ba4.pdf) 6h   
