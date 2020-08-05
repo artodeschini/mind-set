@@ -56,7 +56,8 @@
 
 # Python   
 [Python Data Science basics with Numpy, Pandas and Matplotlib](https://www.udemy.com/certificate/UC-86c4f940-6e64-4da4-aef3-d65436d3bf86/) 6.5h    
-[The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/certificate/UC-679MS6P9/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 18h  
+[The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/certificate/UC-679MS6P9/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 18h 
+[PyCharm IDE](https://www.udemy.com/certificate/UC-d45093e2-8fca-462c-8c39-2d07b57e6eae/) 1h   
 
 # Tools  
 [Brief introduction to Atom Editor](https://www.udemy.com/certificate/UC-IIZL33UK/) 1h    
