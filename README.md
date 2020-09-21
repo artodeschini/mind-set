@@ -18,7 +18,6 @@
 # DevOps
 [Docker para Amazon AWS Implante Apps Java e .NET + Travis CI](https://www.udemy.com/certificate/UC-DRUAOFNB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h   
 [Getting Started With Docker: Key Concepts for Beginners](https://www.udemy.com/certificate/UC-BNRLIJFB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 2h  
-
 [SSL Complete Guide 2020: HTTP to HTTPS](https://www.udemy.com/certificate/UC-bf5cb983-0ccb-422b-9a47-b17bcdde121a) 11h   
 
 # English
@@ -31,6 +30,9 @@
 # Front End
 [HTML5](https://www.udemy.com/certificate/UC-33HY8RLS/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h  
 
+# Git
+[Gitlab](https://www.udemy.com/certificate/UC-edb57e95-8afc-4f41-8ad3-38683266e108/) 1h  
+
 # Java
 [REST-RESTFul API's do 0 à Nuvem Com Spring Boot 2.x e Docker](https://www.udemy.com/certificate/UC-N0M5X87E/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 13.5   
 [HANDS ON DOCKER for JAVA Developers](https://www.udemy.com/certificate/UC-G3NLCGL5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h   
@@ -42,6 +44,7 @@
 
 # MacOS  
 [Setup OS X development environments](https://www.udemy.com/certificate/UC-UBFQK7K3/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1h  
+[Mac Terminal](https://www.udemy.com/certificate/UC-47f48281-1a35-49d2-b36d-e541ab49dcaf/) 35"  
 
 # Mathematics
 [Discrete Mathematics - Complete Course](https://www.udemy.com/certificate/UC-TPB699U5/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1.5h  
@@ -59,6 +62,7 @@
 [Python Data Science basics with Numpy, Pandas and Matplotlib](https://www.udemy.com/certificate/UC-86c4f940-6e64-4da4-aef3-d65436d3bf86/) 6.5h    
 [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/certificate/UC-679MS6P9/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 18h 
 [PyCharm IDE](https://www.udemy.com/certificate/UC-d45093e2-8fca-462c-8c39-2d07b57e6eae/) 1h   
+[Serverless Django with Docker & Google Cloud Run](https://www.udemy.com/certificate/UC-c8e0cf34-b3af-4f0f-896b-30bf4ec98ffb/) 2.5h   
 
 # Tools  
 [Brief introduction to Atom Editor](https://www.udemy.com/certificate/UC-IIZL33UK/) 1h    
