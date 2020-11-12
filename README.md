@@ -15,6 +15,9 @@
 # Cloud
 [AWS Concepts](https://www.udemy.com/certificate/UC-7CR36WMZ/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 1h  
 
+# Data Science
+[O Guia Completo de Carreira em Data Science e AI](https://www.udemy.com/certificate/UC-bdbaae18-2a11-4617-ab73-240a8ec8bf6e/) 1,5h   
+
 # DevOps
 [Docker para Amazon AWS Implante Apps Java e .NET + Travis CI](https://www.udemy.com/certificate/UC-DRUAOFNB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h   
 [Getting Started With Docker: Key Concepts for Beginners](https://www.udemy.com/certificate/UC-BNRLIJFB/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 2h  
