@@ -29,6 +29,7 @@
 
 # Front End
 [HTML5](https://www.udemy.com/certificate/UC-33HY8RLS/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) 4h  
+[HTTP](https://www.udemy.com/certificate/UC-769988b1-a2a4-4fa4-b1d8-b0cae90a5e25/) 1h   
 
 # Git
 [Gitlab](https://www.udemy.com/certificate/UC-edb57e95-8afc-4f41-8ad3-38683266e108/) 1h  
